@@ -1,0 +1,18 @@
+.github/workflows/e2e-pr-test.yml
+  h_ccbfe03d15f891 23
+.github/workflows/e2e-test-periodic.yml
+  h_ccbfe03d15f891 13,18
+.github/workflows/zizmor.yml
+  h_ccbfe03d15f891 30,36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "79104b97214e0cafc1cbcc3cfe5a9ad311f0fc87",
+  "prompts": {},
+  "humans": {
+    "h_ccbfe03d15f891": {
+      "author": "Aryan Patel <aryanpatel6215@gmail.com>"
+    }
+  }
+}
